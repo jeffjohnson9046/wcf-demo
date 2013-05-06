@@ -1,0 +1,6 @@
+C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo\obj\Debug\WCF.Service.Demo.csprojResolveAssemblyReference.cache
+C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo\bin\Debug\WCF.Service.Demo.dll.config
+C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo\bin\Debug\WCF.Service.Demo.dll
+C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo\bin\Debug\WCF.Service.Demo.pdb
+C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo\obj\Debug\WCF.Service.Demo.dll
+C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo\obj\Debug\WCF.Service.Demo.pdb

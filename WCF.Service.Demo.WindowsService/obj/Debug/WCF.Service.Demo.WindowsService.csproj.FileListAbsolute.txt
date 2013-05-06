@@ -1,0 +1,10 @@
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe.config
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.pdb
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\obj\Debug\WCF.Service.Demo.WindowsService.csprojResolveAssemblyReference.cache
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\obj\Debug\WCF.Service.Demo.WindowsService.csproj.GenerateResource.Cache
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\obj\Debug\WCF.Service.Demo.WindowsService.exe
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\obj\Debug\WCF.Service.Demo.WindowsService.pdb
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\obj\Debug\WCF.Service.Demo.WindowsService.WCFDemoServiceInstaller.resources
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.dll
+C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.pdb

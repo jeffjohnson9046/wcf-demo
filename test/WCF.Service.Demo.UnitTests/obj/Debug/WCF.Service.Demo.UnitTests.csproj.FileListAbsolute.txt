@@ -1,0 +1,7 @@
+C:\Development\GitHub\WCF.Service.Demo\test\WCF.Service.Demo.UnitTests\bin\Debug\WCF.Service.Demo.UnitTests.dll
+C:\Development\GitHub\WCF.Service.Demo\test\WCF.Service.Demo.UnitTests\bin\Debug\WCF.Service.Demo.UnitTests.pdb
+C:\Development\GitHub\WCF.Service.Demo\test\WCF.Service.Demo.UnitTests\obj\Debug\WCF.Service.Demo.UnitTests.csprojResolveAssemblyReference.cache
+C:\Development\GitHub\WCF.Service.Demo\test\WCF.Service.Demo.UnitTests\obj\Debug\WCF.Service.Demo.UnitTests.dll
+C:\Development\GitHub\WCF.Service.Demo\test\WCF.Service.Demo.UnitTests\obj\Debug\WCF.Service.Demo.UnitTests.pdb
+C:\Development\GitHub\WCF.Service.Demo\test\WCF.Service.Demo.UnitTests\bin\Debug\WCF.Service.Demo.dll
+C:\Development\GitHub\WCF.Service.Demo\test\WCF.Service.Demo.UnitTests\bin\Debug\WCF.Service.Demo.pdb

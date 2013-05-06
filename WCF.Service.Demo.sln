@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{16A28B91-34BF-44FC-8E95-32D97EF9304B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{8557FDBB-B837-4F2F-AA8C-4363FAFD94D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Service.Demo", "src\WCF.Service.Demo\WCF.Service.Demo.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Service.Demo.UnitTests", "test\WCF.Service.Demo.UnitTests\WCF.Service.Demo.UnitTests.csproj", "{BE02AAFF-A262-4C19-B90E-58632553D21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Service.Demo.WindowsService", "WCF.Service.Demo.WindowsService\WCF.Service.Demo.WindowsService.csproj", "{E8C7676C-39F3-4C83-A1D5-2350A0060870}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{BE481E51-91B3-4A58-8EFB-A108FFD4D44D}"
+	ProjectSection(SolutionItems) = preProject
+		generateProxy.cmd = generateProxy.cmd
+		scripts\installService.cmd = scripts\installService.cmd
+		scripts\UNinstallService.cmd = scripts\UNinstallService.cmd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE02AAFF-A262-4C19-B90E-58632553D21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE02AAFF-A262-4C19-B90E-58632553D21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE02AAFF-A262-4C19-B90E-58632553D21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE02AAFF-A262-4C19-B90E-58632553D21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C7676C-39F3-4C83-A1D5-2350A0060870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C7676C-39F3-4C83-A1D5-2350A0060870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C7676C-39F3-4C83-A1D5-2350A0060870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C7676C-39F3-4C83-A1D5-2350A0060870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15B3E0D2-6217-493A-A690-158C497F5318} = {16A28B91-34BF-44FC-8E95-32D97EF9304B}
+		{E8C7676C-39F3-4C83-A1D5-2350A0060870} = {16A28B91-34BF-44FC-8E95-32D97EF9304B}
+		{BE02AAFF-A262-4C19-B90E-58632553D21B} = {8557FDBB-B837-4F2F-AA8C-4363FAFD94D9}
+	EndGlobalSection
+EndGlobal

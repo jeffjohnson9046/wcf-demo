@@ -1,0 +1,29 @@
+﻿Installing assembly 'C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
+   assemblypath = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+Installing service WCF.Service.Demo...
+Creating EventLog source WCF.Service.Demo in log Application...
+Rolling back assembly 'C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
+   assemblypath = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+Restoring event log to previous state for source WCF.Service.Demo.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
+   assemblypath = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+Installing service WCF.Service.Demo...
+Service WCF.Service.Demo has been successfully installed.
+Creating EventLog source WCF.Service.Demo in log Application...
+Committing assembly 'C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
+   assemblypath = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
