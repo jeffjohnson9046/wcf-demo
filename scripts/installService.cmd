@@ -12,5 +12,5 @@
 :: the installutil executable lives.
 ::------------------------------------------------------------------------------------------------
 
-installutil "C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe"
+installutil "C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe"
 pause

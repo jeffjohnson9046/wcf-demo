@@ -12,6 +12,6 @@
 :: the installutil executable lives.
 ::------------------------------------------------------------------------------------------------
 
-net stop BatchProcessingService
-installutil /u "C:\Development\CREDCO\Credco.eBilling\Credco.eBilling Namespace\Credco.eBilling.BatchProcessingService\bin\Debug\Credco.eBilling.BatchProcessingService.exe"
+net stop "ResortCom Prototype Service"
+installutil /u "C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe"
 pause

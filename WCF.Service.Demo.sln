@@ -9,14 +9,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Service.Demo", "src\WCF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Service.Demo.UnitTests", "test\WCF.Service.Demo.UnitTests\WCF.Service.Demo.UnitTests.csproj", "{BE02AAFF-A262-4C19-B90E-58632553D21B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Service.Demo.WindowsService", "WCF.Service.Demo.WindowsService\WCF.Service.Demo.WindowsService.csproj", "{E8C7676C-39F3-4C83-A1D5-2350A0060870}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{BE481E51-91B3-4A58-8EFB-A108FFD4D44D}"
 	ProjectSection(SolutionItems) = preProject
-		generateProxy.cmd = generateProxy.cmd
+		scripts\generateProxy.cmd = scripts\generateProxy.cmd
 		scripts\installService.cmd = scripts\installService.cmd
 		scripts\UNinstallService.cmd = scripts\UNinstallService.cmd
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF.Service.Demo.WindowsService", "src\WCF.Service.Demo.WindowsService\WCF.Service.Demo.WindowsService.csproj", "{E8C7676C-39F3-4C83-A1D5-2350A0060870}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

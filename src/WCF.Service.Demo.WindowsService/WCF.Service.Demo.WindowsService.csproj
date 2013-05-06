@@ -69,7 +69,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\WCF.Service.Demo\WCF.Service.Demo.csproj">
+    <ProjectReference Include="..\WCF.Service.Demo\WCF.Service.Demo.csproj">
       <Project>{15b3e0d2-6217-493a-a690-158c497f5318}</Project>
       <Name>WCF.Service.Demo</Name>
     </ProjectReference>

@@ -27,3 +27,33 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
    assemblypath = C:\Development\GitHub\WCF.Service.Demo\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+Uninstalling assembly 'C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
+   assemblypath = C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+Removing EventLog source WCF.Service.Demo.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
+   assemblypath = C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+Installing service WCF.Service.Demo...
+Service WCF.Service.Demo has been successfully installed.
+Creating EventLog source WCF.Service.Demo in log Application...
+Committing assembly 'C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
+   assemblypath = C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+Uninstalling assembly 'C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.InstallLog
+   assemblypath = C:\Development\GitHub\WCF.Service.Demo\src\WCF.Service.Demo.WindowsService\bin\Debug\WCF.Service.Demo.WindowsService.exe
+Removing EventLog source WCF.Service.Demo.
+Service WCF.Service.Demo is being removed from the system...
+Service WCF.Service.Demo was successfully removed from the system.
