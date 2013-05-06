@@ -7,7 +7,7 @@ Solution Structure
 ------------------
 * **src:**  This folder contains all the source code for the WCF service.
 * **test:**  This folder contains the unit test project.
-* scripts:**  This folder contains the .cmd files to install/uninstall the WCF service on a Windows machine as a Windows Service.
+* **scripts:**  This folder contains the .cmd files to install/uninstall the WCF service on a Windows machine as a Windows Service.
 
 Projects
 --------
